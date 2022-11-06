@@ -1,6 +1,7 @@
 // import type { NextPage } from 'next'
 import Head from 'next/head';
 import Header from '../Components/Header';
+import Feed from '../Components/Feed';
 
 // const Home: NextPage = () => {
 //   return (
@@ -28,6 +29,7 @@ export default function Home() {
       <Header />
 
       {/* Feed */}
+      <Feed />
 
       {/* Modal */}
     </div>
