@@ -57,7 +57,10 @@ const Header = () => {
                 <UserGroupIcon className='navBtn' />
                 <HeartIcon className='navBtn' />
 
-                <img src='https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745' alt='profile pic' className='h-10 rounded-full cursor-pointer' />
+                <img src='https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745' 
+                    alt='profile pic' 
+                    className='h-10 rounded-full cursor-pointer' 
+                />
             </div>
         </div>
     </div>
