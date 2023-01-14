@@ -7,21 +7,21 @@ const posts = [
         username: "Adam",
         userImg: "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
         img: "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
-        caption: "Post more!!!"
+        caption: "Nice Photo, give us more!!"
     },
     {
         id: "123",
         username: "Adam",
         userImg: "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
         img: "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
-        caption: "Post more!!!"
+        caption: "Nice Photo, give us more!!"
     },
     {
         id: "123",
         username: "Adam",
         userImg: "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
         img: "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
-        caption: "Post more!!!"
+        caption: "Nice Photo, give us more!!"
     }
 ]
 
